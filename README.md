@@ -25,6 +25,6 @@ The ER diagram looks like the following.
 
 Using the provided information created a table schema for each of the six CSV files sith specified data types, primary keys, foreign keys, and other constraints.Note to import each CSV file into the corresponding SQL table the order strictly should be followed to avoid errors.
 
-Click the following link to see the actual schema file  CREATE TABLE departments.sql
+Click the following link to see the actual schema file  https://github.com/MeerKar/SQL/blob/main/CREATE%20TABLE%20%22departments%22%20(.sql
 
 
