@@ -30,7 +30,7 @@ Click the following link to see the actual schema file  https://github.com/MeerK
 
 ### 3.DATA ANALYSIS
 
-After importing the CSV files given, a query anlysis is done with the following : The full query is done with this
+After importing the CSV files given, a query anlysis is done with the following : The full query is done with this https://github.com/MeerKar/SQL/blob/main/--DATA%20ANALYSIS.sql
 
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
